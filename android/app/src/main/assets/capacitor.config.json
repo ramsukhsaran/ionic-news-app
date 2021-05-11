@@ -1,0 +1,14 @@
+{
+  "appId": "org.example.news",
+  "appName": "NewsFly",
+  "bundledWebRuntime": false,
+  "allowMixedContent": true,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
